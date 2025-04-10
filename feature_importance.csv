@@ -1,0 +1,15 @@
+Feature,Importance
+InternetService_Fiber optic,0.4900114
+Contract_Two year,0.12821232
+tenure,0.07489906
+Contract_One year,0.05801824
+MultipleLines_1,0.03546794
+OnlineSecurity_1,0.029904874
+TotalCharges,0.0277786
+PaymentMethod_Electronic check,0.026331194
+charge_per_month,0.0239328
+MonthlyCharges,0.022936005
+DeviceProtection_1,0.022099813
+PaymentMethod_Credit card (automatic),0.022053087
+gender_Male,0.021695286
+PaymentMethod_Mailed check,0.01665939
